@@ -1,0 +1,57 @@
+Z:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+Z:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+Z:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+Z:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+D:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+D:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+D:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+D:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+E:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+E:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+E:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+E:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+G:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+G:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+G:\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+G:\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+C:\Users\fiset\Desktop\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+D:\LABCOM3\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
+D:\LABCOM3\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe
+D:\LABCOM3\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.pdb
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csprojResolveAssemblyReference.cache
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.frmLab2.resources
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3_comm.Properties.Resources.resources
+D:\LABCOM3\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.csproj.GenerateResource.Cache
+Z:\LABCOM3 Par Isaac Fiset et Nicolas Sauvageau\Lab3 comm\Lab3 comm\bin\Debug\Lab3 comm.exe.config
+Z:\LABCOM3 Par Isaac Fiset et Nicolas Sauvageau\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.exe
+Z:\LABCOM3 Par Isaac Fiset et Nicolas Sauvageau\Lab3 comm\Lab3 comm\obj\Debug\Lab3 comm.pdb
